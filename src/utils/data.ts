@@ -23,9 +23,9 @@ export const projects: Project[] = [
 
 export const skills: Skill[] = [
   // Frontend
-  { name: 'HTML5', category: 'frontend', level: 90 },
+  { name: 'HTML5', category: 'frontend', level: 85 },
   { name: 'CSS3', category: 'frontend', level: 75 },
-  { name: 'JavaScript', category: 'frontend', level: 70 },
+  { name: 'JavaScript', category: 'frontend', level:  65},
   { name: 'React', category: 'frontend', level: 50 },
   { name: 'TypeScript', category: 'frontend', level: 25 },
   
@@ -45,7 +45,7 @@ export const skills: Skill[] = [
   { name: 'GitHub', category: 'tools', level: 30 },
   
   // Soft Skills
-  { name: 'Organização', category: 'soft', level: 90 },
+  { name: 'Organização', category: 'soft', level: 75 },
   { name: 'Comunicação', category: 'soft', level: 75 },
   { name: 'Trabalho em Equipe', category: 'soft', level: 85 },
   { name: 'Resolução de Problemas', category: 'soft', level: 85 },
