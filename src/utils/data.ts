@@ -19,6 +19,15 @@ export const projects: Project[] = [
     github: 'https://github.com/JvbsB7/App-RocketSeat---2025',
     featured: false,
   },
+  {
+   id: '3',
+    title: 'Portifólio Pessoal',
+    description: 'Meu portfólio pessoal, construído com React e TypeScript, apresentando meus projetos e habilidades de desenvolvimento web',
+    tags: ['React', 'TypeScript', 'Vite',],
+    image: '/projects/portfolio.png',
+    github: 'https://github.com/JvbsB7/Portfolio',
+    featured: true,
+  },
 ]
 
 export const skills: Skill[] = [
