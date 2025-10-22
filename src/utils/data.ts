@@ -14,10 +14,10 @@ export const projects: Project[] = [
     id: '2',
     title: 'Lista de Compras',
     description: 'Aplicativo mobile para gerenciar listas de compras. Projeto de aprendizado em React Native seguindo curso atualizado de 2025, com foco em desenvolvimento mobile moderno e boas práticas.',
-    tags: ['React Native', 'TypeScript', 'Expo', 'Em Desenvolvimento'],
+    tags: ['React Native', 'TypeScript', 'Expo', 'Mobile'],
     image: '/projects/lista-compras.png',
     github: 'https://github.com/JvbsB7/App-RocketSeat---2025',
-    featured: false,
+    featured: true,
   },
   {
    id: '3',
